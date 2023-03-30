@@ -1,4 +1,4 @@
-# terraform-aws-instance
+# terraform-s3
 
 terraform init
 terraform plan
